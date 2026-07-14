@@ -1,0 +1,963 @@
+{
+  "library": "Terkelsen.Mandolin",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/Terkelsen.Mandolin",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48",
+  "branch": "master",
+  "fileCount": 78,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/",
+  "files": [
+    {
+      "file": "01g2_1.opus",
+      "name": "01g2_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/01g2_1.opus",
+      "size": 38781,
+      "note": "g2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "01g2_2.opus",
+      "name": "01g2_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/01g2_2.opus",
+      "size": 30492,
+      "note": "g2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "02g+2_1.opus",
+      "name": "02g+2_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/02g%2B2_1.opus",
+      "size": 27086,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "02g+2_2.opus",
+      "name": "02g+2_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/02g%2B2_2.opus",
+      "size": 34241,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "03a2_1.opus",
+      "name": "03a2_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/03a2_1.opus",
+      "size": 29435,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "03a2_2.opus",
+      "name": "03a2_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/03a2_2.opus",
+      "size": 25427,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "04a+2_1.opus",
+      "name": "04a+2_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/04a%2B2_1.opus",
+      "size": 26404,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "04a+2_2.opus",
+      "name": "04a+2_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/04a%2B2_2.opus",
+      "size": 35239,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "05b2_1.opus",
+      "name": "05b2_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/05b2_1.opus",
+      "size": 33403,
+      "note": "b2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "05b2_2.opus",
+      "name": "05b2_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/05b2_2.opus",
+      "size": 32903,
+      "note": "b2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "06c3_1.opus",
+      "name": "06c3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/06c3_1.opus",
+      "size": 25702,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "06c3_2.opus",
+      "name": "06c3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/06c3_2.opus",
+      "size": 25239,
+      "note": "c3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "07c+3_1.opus",
+      "name": "07c+3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/07c%2B3_1.opus",
+      "size": 25755,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "07c+3_2.opus",
+      "name": "07c+3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/07c%2B3_2.opus",
+      "size": 25562,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "08d3_1.opus",
+      "name": "08d3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/08d3_1.opus",
+      "size": 28332,
+      "note": "d3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "08d3_2.opus",
+      "name": "08d3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/08d3_2.opus",
+      "size": 27308,
+      "note": "d3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "09d+3_1.opus",
+      "name": "09d+3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/09d%2B3_1.opus",
+      "size": 23948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "09d+3_2.opus",
+      "name": "09d+3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/09d%2B3_2.opus",
+      "size": 23056,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "10e3_1.opus",
+      "name": "10e3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/10e3_1.opus",
+      "size": 30669,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "10e3_2.opus",
+      "name": "10e3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/10e3_2.opus",
+      "size": 26392,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "11f3_1.opus",
+      "name": "11f3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/11f3_1.opus",
+      "size": 26237,
+      "note": "f3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "11f3_2.opus",
+      "name": "11f3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/11f3_2.opus",
+      "size": 21852,
+      "note": "f3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "12f+3_1.opus",
+      "name": "12f+3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/12f%2B3_1.opus",
+      "size": 25150,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "12f+3_2.opus",
+      "name": "12f+3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/12f%2B3_2.opus",
+      "size": 29032,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "13g3_1.opus",
+      "name": "13g3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/13g3_1.opus",
+      "size": 22964,
+      "note": "g3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "13g3_2.opus",
+      "name": "13g3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/13g3_2.opus",
+      "size": 24406,
+      "note": "g3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "14g+3_1.opus",
+      "name": "14g+3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/14g%2B3_1.opus",
+      "size": 23145,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "14g+3_2.opus",
+      "name": "14g+3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/14g%2B3_2.opus",
+      "size": 21735,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "15a3_1.opus",
+      "name": "15a3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/15a3_1.opus",
+      "size": 30302,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "15a3_2.opus",
+      "name": "15a3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/15a3_2.opus",
+      "size": 29497,
+      "note": "a3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "16a+3_1.opus",
+      "name": "16a+3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/16a%2B3_1.opus",
+      "size": 20416,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "16a+3_2.opus",
+      "name": "16a+3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/16a%2B3_2.opus",
+      "size": 20864,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "17b3_1.opus",
+      "name": "17b3_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/17b3_1.opus",
+      "size": 19208,
+      "note": "b3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "17b3_2.opus",
+      "name": "17b3_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/17b3_2.opus",
+      "size": 19022,
+      "note": "b3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "18c4_1.opus",
+      "name": "18c4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/18c4_1.opus",
+      "size": 21650,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "18c4_2.opus",
+      "name": "18c4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/18c4_2.opus",
+      "size": 20680,
+      "note": "c4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "19c+4_1.opus",
+      "name": "19c+4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/19c%2B4_1.opus",
+      "size": 17402,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "19c+4_2.opus",
+      "name": "19c+4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/19c%2B4_2.opus",
+      "size": 18694,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "20d4_1.opus",
+      "name": "20d4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/20d4_1.opus",
+      "size": 20576,
+      "note": "d4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "20d4_2.opus",
+      "name": "20d4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/20d4_2.opus",
+      "size": 18100,
+      "note": "d4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "21d+4_1.opus",
+      "name": "21d+4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/21d%2B4_1.opus",
+      "size": 20415,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "21d+4_2.opus",
+      "name": "21d+4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/21d%2B4_2.opus",
+      "size": 17628,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "22e4_1.opus",
+      "name": "22e4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/22e4_1.opus",
+      "size": 36504,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "22e4_2.opus",
+      "name": "22e4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/22e4_2.opus",
+      "size": 27727,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "23f4_1.opus",
+      "name": "23f4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/23f4_1.opus",
+      "size": 22356,
+      "note": "f4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "23f4_2.opus",
+      "name": "23f4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/23f4_2.opus",
+      "size": 24829,
+      "note": "f4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "24f+4_1.opus",
+      "name": "24f+4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/24f%2B4_1.opus",
+      "size": 22134,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "24f+4_2.opus",
+      "name": "24f+4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/24f%2B4_2.opus",
+      "size": 22320,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "25g4_1.opus",
+      "name": "25g4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/25g4_1.opus",
+      "size": 25354,
+      "note": "g4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "25g4_2.opus",
+      "name": "25g4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/25g4_2.opus",
+      "size": 25566,
+      "note": "g4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "26g+4_1.opus",
+      "name": "26g+4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/26g%2B4_1.opus",
+      "size": 20990,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "26g+4_2.opus",
+      "name": "26g+4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/26g%2B4_2.opus",
+      "size": 20220,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "27a4_1.opus",
+      "name": "27a4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/27a4_1.opus",
+      "size": 22721,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "27a4_2.opus",
+      "name": "27a4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/27a4_2.opus",
+      "size": 23146,
+      "note": "a4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "28a+4_1.opus",
+      "name": "28a+4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/28a%2B4_1.opus",
+      "size": 21252,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "28a+4_2.opus",
+      "name": "28a+4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/28a%2B4_2.opus",
+      "size": 18297,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "29b4_1.opus",
+      "name": "29b4_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/29b4_1.opus",
+      "size": 21191,
+      "note": "b4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "29b4_2.opus",
+      "name": "29b4_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/29b4_2.opus",
+      "size": 24535,
+      "note": "b4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "30c5_1.opus",
+      "name": "30c5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/30c5_1.opus",
+      "size": 16216,
+      "note": "c5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "30c5_2.opus",
+      "name": "30c5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/30c5_2.opus",
+      "size": 18376,
+      "note": "c5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "31c+5_1.opus",
+      "name": "31c+5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/31c%2B5_1.opus",
+      "size": 19214,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "31c+5_2.opus",
+      "name": "31c+5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/31c%2B5_2.opus",
+      "size": 18203,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "32d5_1.opus",
+      "name": "32d5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/32d5_1.opus",
+      "size": 16918,
+      "note": "d5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "32d5_2.opus",
+      "name": "32d5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/32d5_2.opus",
+      "size": 15244,
+      "note": "d5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "33d+5_1.opus",
+      "name": "33d+5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/33d%2B5_1.opus",
+      "size": 18881,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "33d+5_2.opus",
+      "name": "33d+5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/33d%2B5_2.opus",
+      "size": 19910,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "34e5_1.opus",
+      "name": "34e5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/34e5_1.opus",
+      "size": 14136,
+      "note": "e5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "34e5_2.opus",
+      "name": "34e5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/34e5_2.opus",
+      "size": 15226,
+      "note": "e5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "35f5_1.opus",
+      "name": "35f5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/35f5_1.opus",
+      "size": 14261,
+      "note": "f5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "35f5_2.opus",
+      "name": "35f5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/35f5_2.opus",
+      "size": 15147,
+      "note": "f5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "36f+5_1.opus",
+      "name": "36f+5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/36f%2B5_1.opus",
+      "size": 12067,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "36f+5_2.opus",
+      "name": "36f+5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/36f%2B5_2.opus",
+      "size": 13041,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "37g5_1.opus",
+      "name": "37g5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/37g5_1.opus",
+      "size": 7871,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "37g5_2.opus",
+      "name": "37g5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/37g5_2.opus",
+      "size": 12142,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "38g+5_1.opus",
+      "name": "38g+5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/38g%2B5_1.opus",
+      "size": 13414,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "38g+5_2.opus",
+      "name": "38g+5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/38g%2B5_2.opus",
+      "size": 9394,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "39a5_1.opus",
+      "name": "39a5_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/39a5_1.opus",
+      "size": 11818,
+      "note": "a5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "39a5_2.opus",
+      "name": "39a5_2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/terkelsen-mandolin-opus-48/master/39a5_2.opus",
+      "size": 10453,
+      "note": "a5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "43": [
+      "01g2_1.opus",
+      "01g2_2.opus"
+    ],
+    "45": [
+      "03a2_1.opus",
+      "03a2_2.opus"
+    ],
+    "47": [
+      "05b2_1.opus",
+      "05b2_2.opus"
+    ],
+    "48": [
+      "06c3_1.opus",
+      "06c3_2.opus"
+    ],
+    "50": [
+      "08d3_1.opus",
+      "08d3_2.opus"
+    ],
+    "52": [
+      "10e3_1.opus",
+      "10e3_2.opus"
+    ],
+    "53": [
+      "11f3_1.opus",
+      "11f3_2.opus"
+    ],
+    "55": [
+      "13g3_1.opus",
+      "13g3_2.opus"
+    ],
+    "57": [
+      "15a3_1.opus",
+      "15a3_2.opus"
+    ],
+    "59": [
+      "17b3_1.opus",
+      "17b3_2.opus"
+    ],
+    "60": [
+      "18c4_1.opus",
+      "18c4_2.opus"
+    ],
+    "62": [
+      "20d4_1.opus",
+      "20d4_2.opus"
+    ],
+    "64": [
+      "22e4_1.opus",
+      "22e4_2.opus"
+    ],
+    "65": [
+      "23f4_1.opus",
+      "23f4_2.opus"
+    ],
+    "67": [
+      "25g4_1.opus",
+      "25g4_2.opus"
+    ],
+    "69": [
+      "27a4_1.opus",
+      "27a4_2.opus"
+    ],
+    "71": [
+      "29b4_1.opus",
+      "29b4_2.opus"
+    ],
+    "72": [
+      "30c5_1.opus",
+      "30c5_2.opus"
+    ],
+    "74": [
+      "32d5_1.opus",
+      "32d5_2.opus"
+    ],
+    "76": [
+      "34e5_1.opus",
+      "34e5_2.opus"
+    ],
+    "77": [
+      "35f5_1.opus",
+      "35f5_2.opus"
+    ],
+    "79": [
+      "37g5_1.opus",
+      "37g5_2.opus"
+    ],
+    "81": [
+      "39a5_1.opus",
+      "39a5_2.opus"
+    ]
+  }
+}
